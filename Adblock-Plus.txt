@@ -37,30 +37,7 @@ cn.pornhub.com##.abAlertInner
 !====================================================================直播!
 huya.com##.game--3vukE-yU-mjmYLSnLDfHYm
 
-!====================================================================桔子AV视频!
-jzavbus.xyz##.ad1.container
-jzavbus.xyz##.btn.btn-info.text-white
-jzavbus.xyz##.card-header.text-danger
-jzavbus.xyz##.card-title
-jzavbus.xyz##.col-12.alert.alert-primary
-jzavbus.xyz##.col-6.col-md-4.col-lg-4.video-col
-jzavbus.xyz##.index-col.align-middle.d-flex.align-items-center.justify-content-between
-jzavbus.xyz##DIV[class="card box-shadow"]
-jzavbus.xyz##div[style="padding:10px 0;text-align: center;"]
-jzavbus.xyz##DIV[class="card ad1-left-top"]
-jzavbus.xyz##DIV[class="card ad1-right-top"]
-jzavbus.com##.ad1.container
-jzavbus.com##.btn.btn-info.text-white
-jzavbus.com##.card-header.text-danger
-jzavbus.com##.card-title
-jzavbus.com##.col-12.alert.alert-primary
-jzavbus.com##.col-6.col-md-4.col-lg-4.video-col
-jzavbus.com##.index-col.align-middle.d-flex.align-items-center.justify-content-between
-jzavbus.com##DIV[class="card box-shadow"]
-jzavbus.com##div[style="padding:10px 0;text-align: center;"]
-jzavbus.com##DIV[class="card ad1-left-top"]
-jzavbus.com##DIV[class="card ad1-right-top"]
-javbus.com##.alert.alert-info.alert-dismissable.alert-common
+
 
 !========================================================================本地拦截==================================================================================
 pc.115.com##DIV[class="list-url-suggest"]
