@@ -91,8 +91,8 @@
 
 
 > [!TIP]
-> <img src="" width="50" />
->  名称 |
+> <img src="https://github.com/yaoxieyoulei/mytv-android/raw/main/screenshots/Screenshot_panel.png" width="100" />
+> [我的电视](https://github.com/yaoxieyoulei/mytv-android) |
 
 
 > [!TIP]
