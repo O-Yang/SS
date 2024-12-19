@@ -30,7 +30,7 @@
 > <img src="https://media.havoc.app/6669b3b45e7d7e36f189dc6d?w=3840&q=75" width="50" />
 > [TrollRecorder 巨魔录音机](https://github.com/Lessica/TrollRecorder) |
 > <img src="https://ipaomtk.com/wp-content/uploads/2024/07/TrollFools-e1721515292758.png" width="50" />
-> [TrollFools 巨魔插件注入](https://github.com/Lessica/TrollFools) |
+> [TrollFools 巨魔插件注入](https://github.com/Lessica/TrollFools) |  
 > <img src="https://th.bing.com/th/id/OIP.jM9x0Iv38LoiHRU4vd5iGgHaEo?w=292&h=182&c=7&r=0&o=5&pid=1.7" width="50" />
 > [TrollFools huami修改版](https://github.com/huami1314/TrollFools) |
 
