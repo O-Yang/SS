@@ -6,7 +6,7 @@
 > <img src="https://www.clashforwindows.net/wp-content/uploads/2023/12/clashforwindowsicon.png" width="50" />
 > [Clash-for-Windows_汉化](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) |
 > <img src="https://clashmetaforandroid.com/wp-content/uploads/2024/09/logo-150x150.png" width="50" />
-> [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) |
+> [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) |   
 > <img src="https://avatars.githubusercontent.com/u/54771602?v=4" width="50" />
 > [Surfboard 冲浪板](https://github.com/getsurfboard/surfboard) |
 
