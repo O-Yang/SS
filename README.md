@@ -41,6 +41,8 @@
 > [Magisk 面具原版](https://github.com/topjohnwu/Magisk) |
 > <img src="https://user-images.githubusercontent.com/84650617/222942594-63336f63-6a26-492e-a1d1-a356b5f777b3.png" width="100" />
 > [Magisk 面具修改版](https://github.com/HuskyDG/magisk-files) |
+> <img src="https://camo.githubusercontent.com/d56a5dfbd3e3990a0c903dec3070da3e62936b101e3bbed12236e77025495401/68747470733a2f2f6b65726e656c73752e6f72672f6c6f676f2e706e67" width="50" />
+> [KernelSU](https://github.com/tiann/KernelSU) |
 > <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="50" />
 > [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) |  
 > <img src="https://img.utdstc.com/icon/589/62e/58962e1e5f108e659606838e0699fe61e5f5bd63053b3e85bdc369b7969a64d1:100" width="50" />
