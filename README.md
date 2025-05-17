@@ -43,6 +43,8 @@
 > [Magisk 面具修改版](https://github.com/HuskyDG/magisk-files) |
 > <img src="https://camo.githubusercontent.com/d56a5dfbd3e3990a0c903dec3070da3e62936b101e3bbed12236e77025495401/68747470733a2f2f6b65726e656c73752e6f72672f6c6f676f2e706e67" width="50" />
 > [KernelSU](https://github.com/tiann/KernelSU) |
+> <img src="https://camo.githubusercontent.com/566a9edfd7eb009a0395f6cd666295fea76012aa0cd534fc3b210701f2bf20d9/68747470733a2f2f696d616765732e7765736572762e6e6c2f3f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f626d61783132312f4150617463682f6d61696e2f6170702f7372632f6d61696e2f69635f6c61756e636865722d706c617973746f72652e706e67266d61736b3d636972636c65" width="50" />
+> [APatch](https://github.com/bmax121/APatch) |
 > <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="50" />
 > [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) |  
 > <img src="https://img.utdstc.com/icon/589/62e/58962e1e5f108e659606838e0699fe61e5f5bd63053b3e85bdc369b7969a64d1:100" width="50" />
