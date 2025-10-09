@@ -96,7 +96,7 @@
 > [我的电视](https://github.com/yaoxieyoulei/mytv-android) |
 
 > [!TIP]
-> <img src="" width="50" />
+> <img src="https://raw.githubusercontent.com/O-Yang/SS/refs/heads/main/1S.png" width="50" />
 >  名称 |
 
 
