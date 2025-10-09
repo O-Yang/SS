@@ -55,6 +55,8 @@
 > [Fuck for VIP软件vip解锁模块](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) |
 > <img src="https://avatars.githubusercontent.com/u/138121201?s=88&v=4" width="50" />
 > [gkd 搞快点](https://github.com/gkd-kit/gkd) |
+> <img src="https://raw.githubusercontent.com/O-Yang/SS/refs/heads/main/1S.png" width="50" />
+> [隐秘空间](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace) |
 
 
 
