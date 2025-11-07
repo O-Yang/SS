@@ -34,7 +34,7 @@ map.baidu.com##div[class="message-panel-open"]
 cn.pornhub.com###countryRedirectMessage
 cn.pornhub.com##.abAlertInner
 cn.pornhub.com##.v6ygv.clearfix.adsContainer
-
+cn.pornhub.com##.ublbv.clearfix.adsContainer
 
 !====================================================================直播!
 huya.com##.game--3vukE-yU-mjmYLSnLDfHYm
