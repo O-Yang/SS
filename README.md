@@ -106,7 +106,7 @@
 
 
 > [!TIP]
-> <img src="" width="50" />
+> <img src="https://m.media-amazon.com/images/I/41VudWRykvL.png" width="50" />
 > [柴柴EMBY](https://github.com/dh374374/ChaiChaiEmbyTV) |
 > <img src="https://edgeone.cdn.youhun.wang/img/tvapp/icon/ysc.jpeg" width="50" />
 > [全网 Android TV电视盒子应用](https://github.com/youhunwl/TVAPP) |
