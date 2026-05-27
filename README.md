@@ -101,7 +101,7 @@
 > [我的电视](https://github.com/yaoxieyoulei/mytv-android) |
 > <img src="https://pic.7po.com/7po/imgfile/20240626/26163251xeru.png" width="50" />
 > [影视TVAPP](https://github.com/youhunwl/TVAPP) |
-> <img src="https://private-user-images.githubusercontent.com/50815957/438631485-e9b4d86b-6ce8-4550-bde2-bdf9a3818644.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQyMzgyNjEsIm5iZiI6MTc3NDIzNzk2MSwicGF0aCI6Ii81MDgxNTk1Ny80Mzg2MzE0ODUtZTliNGQ4NmItNmNlOC00NTUwLWJkZTItYmRmOWEzODE4NjQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIzVDAzNTI0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmNjYzZTZhZDE4OTZjYWEzNTdjZDliNzEzZTY5MTcxNTkzNWI1NWViMjM5Y2Q0YzQ1YWVlMDM5ODI1M2ExMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.b6mX8kA2bXnQdcEzz-5C3CFBhAbtwdy3aSAqASNnjos" width="50" />
+> <img src="https://i-2.tts8.com/2026/0305/5cd2c04d7551ce14dd4b9eb099e1f266.webp" width="50" />
 > [AfuseKt](https://github.com/AttemptD/AfuseKt-release) |
 
 
