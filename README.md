@@ -108,9 +108,9 @@
 > [!TIP]
 > <img src="" width="50" />
 > [柴柴EMBY](https://github.com/dh374374/ChaiChaiEmbyTV) |
-> <img src="" width="50" />
+> <img src="https://edgeone.cdn.youhun.wang/img/tvapp/icon/ysc.jpeg" width="50" />
 > [全网 Android TV电视盒子应用](https://github.com/youhunwl/TVAPP) |
-> <img src="" width="50" />
+> <img src="https://jayjd.github.io/assets/img/ic_channel.png" width="50" />
 > [虎牙聚合直播](https://github.com/jayjd/HuYaTv) |
 > <img src="" width="50" />
 > [名称](网址) |
