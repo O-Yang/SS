@@ -10,10 +10,10 @@
 | :---: | :--- | :--- | :--- | :--- |
 | <img src="https://avatars.githubusercontent.com/u/152534467?s=48&v=4" width="25" /> | [Clash Verge 的延续](https://github.com/clash-verge-rev/clash-verge-rev) | 💻 客户端 | Clash Verge 延续版代理客户端 | |
 | <img src="https://clashforwindows.org/wp-content/uploads/2022/09/1663501512-favicon.png" width="25" /> | [Clash-for-Windows_汉化](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 💻 客户端 | CFW Windows 客户端汉化版 | |
-| <img src="https://clashmetaforandroid.com" width="25" /> | [Clash Meta for Android](https://github.com) | 📱 客户端 | 适用于安卓的 Clash Meta 客户端 | |
-| <img src="https://postimg.cc" width="25" /> | [Surfboard 冲浪板](https://github.com) | 📱 客户端 | 安卓冲浪板代理软件 | |
-| <img src="https://postimg.cc" width="25" /> | [v2rayNG](https://github.com) | 📱 客户端 | 安卓 v2rayNG 代理客户端 | |
-| <img src="https://getflclash.net" width="25" /> | [FlClash](https://github.com) | ⚙️ 客户端 | 基于 Meta 核心的跨平台代理工具 | |
+| <img src="https://clashmetaforandroid.com/wp-content/uploads/2024/09/logo.png" width="25" /> | [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | 📱 客户端 | 适用于安卓的 Clash Meta 客户端 | |
+| <img src="https://getsurfboard.com/img/logo.png" width="25" /> | [Surfboard 冲浪板](https://github.com/getsurfboard/surfboard) | 📱 客户端 | 安卓冲浪板代理软件 | |
+| <img src="https://v2rayng.org/wp-content/uploads/2022/06/1656359416-favicon-70x70.png" width="25" /> | [v2rayNG](https://github.com/2dust/v2rayNG) | 📱 客户端 | 安卓 v2rayNG 代理客户端 | |
+| <img src="https://flclash.app/wp-content/uploads/2025/08/cropped-flclash-logo-70x70.png" width="25" /> | [FlClash](https://github.com/chen08209/FlClash) | ⚙️ 客户端 | 基于 Meta 核心的跨平台代理工具 | |
 
 ---
 
