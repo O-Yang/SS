@@ -1,144 +1,74 @@
-### 星标仓库地址
-------
-> [!TIP] 
-> <img src="https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/refs/heads/main/src-tauri/icons/icon.png" width="50" />
-> [Clash Verge 的延续](https://github.com/clash-verge-rev/clash-verge-rev) |
-> <img src="https://www.clashforwindows.net/wp-content/uploads/2023/12/clashforwindowsicon.png" width="50" />
-> [Clash-for-Windows_汉化](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) |
-> <img src="https://clashmetaforandroid.com/wp-content/uploads/2024/09/logo-150x150.png" width="50" />
-> [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) |   
-> <img src="https://avatars.githubusercontent.com/u/54771602?v=4" width="50" />
-> [Surfboard 冲浪板](https://github.com/getsurfboard/surfboard) |
-> <img src="https://v2rayng.org/wp-content/uploads/2022/06/1656359416-favicon-70x70.png" width="50" />
-> [v2rayNG](https://github.com/2dust/v2rayNG) |
-> <img src="https://getflclash.net/wp-content/uploads/2024/10/logo.webp" width="50" />
-> [FlClash](https://github.com/chen08209/FlClash) |
+### 📁 星标仓库目录与功能说明
+
+---
+
+### 🌐 1. 网络代理与多平台客户端
 
 
-> [!TIP]
-> <img src="https://theapplewiki.com/images/applewiki/thumb/c/c6/Dopamine-roothide_Icon.png/170px-Dopamine-roothide_Icon.png" width="50" />
-> [Dopamine RootHide原版](https://github.com/roothide/Dopamine-roothide) |
-> <img src="https://avatars.githubusercontent.com/u/105048516?s=48&v=4" width="50" />
-> [M哥修改版](https://github.com/wwg135/Dopamine) |
-> <img src="https://avatars.githubusercontent.com/u/3348485?s=48&v=4" width="50" />
-> [L哥修改版](https://github.com/Liam0205/Dopamine) |
-> <img src="https://avatars.githubusercontent.com/u/114452622?s=48&v=4" width="50" />
-> [真皮哥修改版](https://github.com/w2599/Dopamine) |
+| 软件 / 项目 | 类型 | 说明 | 备注 |
+| :--- | :--- | :--- | :--- |
+| <img src="https://postimg.cc" width="22" valign="middle"/> [Clash Verge 的延续](https://github.com) | 💻 客户端 | Clash Verge 延续版代理客户端 | |
+| <img src="https://postimg.cc" width="22" valign="middle"/> [Clash-for-Windows_汉化](https://github.com) | 💻 客户端 | CFW Windows 客户端汉化版 | |
+| <img src="https://clashmetaforandroid.com" width="22" valign="middle"/> [Clash Meta for Android](https://github.com) | 📱 客户端 | 适用于安卓的 Clash Meta 客户端 | |
+| <img src="https://postimg.cc" width="22" valign="middle"/> [Surfboard 冲浪板](https://github.com) | 📱 客户端 | 安卓冲浪板代理软件 | |
+| <img src="https://postimg.cc" width="22" valign="middle"/> [v2rayNG](https://github.com) | 📱 客户端 | 安卓 v2rayNG 代理客户端 | |
+| <img src="https://getflclash.net" width="22" valign="middle"/> [FlClash](https://github.com) | ⚙️ 客户端 | 基于 Meta 核心的跨平台代理工具 | |
+
+---
+
+### 🍏 2. 苹果系统增强（iOS 越狱 / 巨魔 / 增强配置 / 黑苹果）
 
 
+| 软件 / 项目 | 类型 | 说明 | 备注 |
+| :--- | :--- | :--- | :--- |
+| <img src="https://theapplewiki.com" width="22" valign="middle"/> [Dopamine RootHide原版](https://github.com) | 🔓 越狱 | 多巴胺 RootHide 越狱工具 | |
+| <img src="https://postimg.cc" width="22" valign="middle"/> [M哥修改版](https://github.com) | 🔓 越狱 | M哥定制修改版多巴胺环境 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [L哥修改版](https://github.com) | 🔓 越狱 | L哥定制修改版多巴胺环境 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [真皮哥修改版](https://github.com) | 🔓 越狱 | 真皮哥定制修改版多巴胺环境 | |
+| <img src="https://github.com" width="22" valign="middle"/> [TrollInstallerX 巨魔安装器](https://github.com) | 🐉 巨魔 | TrollStore 巨魔一键安装工具 | |
+| <img src="https://havoc.app" width="22" valign="middle"/> [TrollRecorder 巨魔录音机](https://github.com) | 🐉 巨魔 | 巨魔免越狱系统通话录音 | |
+| <img src="https://ipaomtk.com" width="22" valign="middle"/> [TrollFools 巨魔插件注入](https://github.com) | 🐉 巨魔 | 免越狱为 App 注入插件的工具 | |
+| <img src="https://bing.com" width="22" valign="middle"/> [TrollFools huami修改版](https://github.com) | 🐉 巨魔 | 华米定制修改版 TrollFools | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [vCards ios通讯录中国黄页](https://github.com) | ℹ️ 配置 | iOS 增强版系统通讯录黄页说明 | |
+| <img src="https://github.com" width="22" valign="middle"/> [LEGION_Y7000Series_Hackintosh](https://github.com) | 🍏 黑苹果 | 拯救者 Y7000 系列黑苹果 EFI 配置 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [Hackintosh-LEGION-Y7000P-I7-9750H](https://github.com) | 🍏 黑苹果 | 拯救者 Y7000P i7-9750H 专用 EFI | |
+| <img src="https://github.com" width="22" valign="middle"/> [OpenCorePkg（黑苹果引导）](https://github.com) | 🍏 黑苹果 | OpenCore 官方黑苹果引导包 | |
+| <img src="https://github.com" width="22" valign="middle"/> [one-key-hidpi 一键开启 macOS HiDPI](https://github.com) | 🍏 黑苹果 | 解决黑苹果显示模糊的一键脚本 | |
 
-> [!TIP]
-> <img src="https://github.com/alfiecg24/TrollInstallerX/blob/main/Resources/Icon.png" width="50" />
-> [TrollInstallerX 巨魔安装器](https://github.com/alfiecg24/TrollInstallerX) |
-> <img src="https://media.havoc.app/6669b3b45e7d7e36f189dc6d?w=3840&q=75" width="50" />
-> [TrollRecorder 巨魔录音机](https://github.com/Lessica/TrollRecorder) |
-> <img src="https://ipaomtk.com/wp-content/uploads/2024/07/TrollFools-e1721515292758.png" width="50" />
-> [TrollFools 巨魔插件注入](https://github.com/Lessica/TrollFools) |  
-> <img src="https://th.bing.com/th/id/OIP.jM9x0Iv38LoiHRU4vd5iGgHaEo?w=292&h=182&c=7&r=0&o=5&pid=1.7" width="50" />
-> [TrollFools huami修改版](https://github.com/huami1314/TrollFools) |
+---
 
-
-
-> [!TIP]
-> <img src="https://github.com/topjohnwu/Magisk/raw/master/docs/images/logo.png" width="100" />
-> [Magisk 面具原版](https://github.com/topjohnwu/Magisk) |
-> <img src="https://user-images.githubusercontent.com/84650617/222942594-63336f63-6a26-492e-a1d1-a356b5f777b3.png" width="100" />
-> [Magisk 面具修改版](https://github.com/HuskyDG/magisk-files) |
-> <img src="https://camo.githubusercontent.com/d56a5dfbd3e3990a0c903dec3070da3e62936b101e3bbed12236e77025495401/68747470733a2f2f6b65726e656c73752e6f72672f6c6f676f2e706e67" width="50" />
-> [KernelSU](https://github.com/tiann/KernelSU) |
-> <img src="https://camo.githubusercontent.com/566a9edfd7eb009a0395f6cd666295fea76012aa0cd534fc3b210701f2bf20d9/68747470733a2f2f696d616765732e7765736572762e6e6c2f3f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f626d61783132312f4150617463682f6d61696e2f6170702f7372632f6d61696e2f69635f6c61756e636865722d706c617973746f72652e706e67266d61736b3d636972636c65" width="50" />
-> [APatch](https://github.com/bmax121/APatch) |
-> <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="50" />
-> [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) |  
-> <img src="https://img.utdstc.com/icon/589/62e/58962e1e5f108e659606838e0699fe61e5f5bd63053b3e85bdc369b7969a64d1:100" width="50" />
-> [MockLocation 悟空虚拟定位](https://github.com/ChenGuoqing1001/MockLocation) |
-> <img src="https://github.com/Dr-TSNG/Hide-My-Applist/raw/master/banner.png" width="150" />
-> [Hide My Applist 隐藏应用列表](https://github.com/Dr-TSNG/Hide-My-Applist) |  
-> <img src="https://appteka.store/api/1/icon/get?hash=%2BPJCi4UPGLKiiBfTFbW5j0TZi%2FKK3chCOyuu9yNroMt0m7ByfTociS78qUn%2BQDFm" width="50" />
-> [Fuck for VIP软件vip解锁模块](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) |
-> <img src="https://avatars.githubusercontent.com/u/138121201?s=88&v=4" width="50" />
-> [gkd 搞快点](https://github.com/gkd-kit/gkd) |
-> <img src="https://raw.githubusercontent.com/O-Yang/SS/refs/heads/main/1S.png" width="50" />
-> [隐秘空间](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace) |
+### 🤖 3. 安卓玩机增强（Root 工具 / 定位 / 系统模块）
 
 
+| 软件 / 项目 | 类型 | 说明 | 备注 |
+| :--- | :--- | :--- | :--- |
+| <img src="https://github.com" width="22" valign="middle"/> [Magisk 面具原版](https://github.com) | ⚡ Root | 安卓 Magisk 官方原版工具 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [Magisk 面具修改版](https://github.com) | ⚡ Root | 各种定制/面具修改版集合 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [KernelSU](https://github.com) | ⚡ Root | 基于内核的安卓 Root 方案 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [APatch](https://github.com) | ⚡ Root | 新型安卓内核与系统级挂载 Root | |
+| <img src="http://fakeloc.cc" width="22" valign="middle"/> [FakeLocation定位修改](https://github.com) | 📍 定位 | 免 Root/带 Root 的虚拟定位软件 | |
+| <img src="https://utdstc.com" width="22" valign="middle"/> [MockLocation 悟空虚拟定位](https://github.com) | 📍 定位 | 安卓高级虚拟定位工具 | |
+| <img src="https://github.com" width="22" valign="middle"/> [Hide My Applist 隐藏应用列表](https://github.com) | 🛡️ 隐私 | 防止应用检测 Root 的隐藏黑名单 | |
+| <img src="https://appteka.store" width="22" valign="middle"/> [Fuck for VIP软件vip解锁模块](https://github.com) | 🔓 Xposed | 针对部分应用 VIP 权益的解锁模块 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [gkd 搞快点](https://github.com) | 🚫 无障碍 | 自动跳过 APP 开屏广告工具 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [隐秘空间](https://github.com) | 🛡️ 隐私 | 应用双开与隐藏保护空间模块 | |
 
-> [!TIP]
-> <img src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" width="50" />
-> [MobaXterm 远程工具汉化](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) |
-> <img src="https://d4.alternativeto.net/helsy3vajr7AoB9nQRFYp2dPFRySS9HDRJGFdp47P6g/rs:fit:140:140:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9ub3RlcGFkLTRfMjQxNDY1LnBuZw.png" width="50" />
-[> Notepad4 轻量级文本编辑器](https://github.com/zufuliu/notepad4) |
-> <img src="https://github.com/BartoszCichecki/LenovoLegionToolkit/blob/master/assets/logo.png?raw=true" width="50" />
-> [LenovoLegionToolkit 拯救者工具箱](https://github.com/BartoszCichecki/LenovoLegionToolkit) |   
-> <img src="https://avatars.githubusercontent.com/u/30562462?v=4" width="50" />
-> [Traffic Monitor 网速监控悬浮窗软件](https://github.com/zhongyang219/TrafficMonitor) |
+---
 
-
-
-> [!TIP]
-> <img src="https://user-images.githubusercontent.com/2666735/59692672-0b6bdf00-9218-11e9-881e-5856e263f3aa.png" width="150" />
->  [vCards ios通讯录中国黄页](https://github.com/metowolf/vCards) |
-
-
-> [!TIP]
-> <img src="https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh/raw/master/Picture/VenturaBate.png" width="80" />
-> [LEGION_Y7000Series_Hackintosh（拯救者黑苹果）](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh) |
-> <img src="https://camo.githubusercontent.com/2dbb4459eb256ead689864fad73a6a50ad4235b215ec9290d09689f81025bef0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4c6f7665476c617a652f696d61676573406d61737465722f312e706e67" width="80" />
-> [Hackintosh-LEGION-Y7000P-I7-9750H（拯救者黑苹果）](https://github.com/gclm/Hackintosh-LEGION-Y7000P-I7-9750H)|   
-> <img src="https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png" width="150" />
->  [OpenCorePkg（黑苹果引导）](https://github.com/acidanthera/OpenCorePkg) |
-> <img src="https://github.com/xzhih/one-key-hidpi/raw/master/img/run-zh.jpg" width="150" />
->  [one-key-hidpi 一键开启 macOS HiDPI](https://github.com/xzhih/one-key-hidpi) |
+### 📺 4. PC 软件生产力与 大屏 TV 端影视
 
 
-
-> [!TIP]
-> <img src="https://avatars.githubusercontent.com/u/111275866?s=48&v=4" width="50" />
->  [IPTV（TVBOX）](https://github.com/ngo5/IPTV) |
-> <img src="https://avatars.githubusercontent.com/u/55345096?s=48&v=4" width="50" />
-> [ TvBox（TVBOX）](https://github.com/1771245847/TvBox) |
-> <img src="https://github.com/yaoxieyoulei/mytv-android/raw/main/screenshots/Screenshot_panel.png" width="100" />
-> [我的电视](https://github.com/yaoxieyoulei/mytv-android) |
-> <img src="https://pic.7po.com/7po/imgfile/20240626/26163251xeru.png" width="50" />
-> [影视TVAPP](https://github.com/youhunwl/TVAPP) |
-> <img src="https://i-2.tts8.com/2026/0305/5cd2c04d7551ce14dd4b9eb099e1f266.webp" width="50" />
-> [AfuseKt](https://github.com/AttemptD/AfuseKt-release) |
-
-
-> [!TIP]
-> <img src="https://m.media-amazon.com/images/I/41VudWRykvL.png" width="50" />
-> [柴柴EMBY](https://github.com/dh374374/ChaiChaiEmbyTV) |
-> <img src="https://edgeone.cdn.youhun.wang/img/tvapp/icon/ysc.jpeg" width="50" />
-> [全网 Android TV电视盒子应用](https://github.com/youhunwl/TVAPP) |
-> <img src="https://jayjd.github.io/assets/img/ic_channel.png" width="50" />
-> [虎牙聚合直播](https://github.com/jayjd/HuYaTv) |
-> <img src="" width="50" />
-> [名称](网址) |
-> <img src="" width="50" />
-> [名称](网址) |
-> <img src="" width="50" />
-> [名称](网址) |
-> <img src="" width="50" />
-> [名称](网址) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 软件 / 项目 | 类型 | 说明 | 备注 |
+| :--- | :--- | :--- | :--- |
+| <img src="https://mobatek.net" width="22" valign="middle"/> [MobaXterm 远程工具汉化](https://github.com) | 🛠️ PC 软件 | 全能型终端/SSH/X服务器汉化版 | |
+| <img src="https://alternativeto.net" width="22" valign="middle"/> [Notepad4 轻量级文本编辑器](https://github.com) | 🛠️ PC 软件 | 轻量高效的文本与代码编辑器 | |
+| <img src="https://github.com" width="22" valign="middle"/> [LenovoLegionToolkit 拯救者工具箱](https://github.com) | 🛠️ PC 软件 | 联想拯救者开源替代版控制工具箱 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [Traffic Monitor 网速监控悬浮窗软件](https://github.com) | 🛠️ PC 软件 | Windows 状态栏/悬浮窗网速监控 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [IPTV（TVBOX）](https://github.com) | 📺 大屏端 | 电视直播 IPTV 订阅与播放器 | |
+| <img src="https://githubusercontent.com" width="22" valign="middle"/> [TvBox（TVBOX）](https://github.com) | 📺 大屏端 | 开源多功能电视盒子播放器壳子 | |
+| <img src="https://github.com" width="22" valign="middle"/> [我的电视](https://github.com) | 📺 大屏端 | 经典易用的电视直播软件 | |
+| <img src="https://7po.com" width="22" valign="middle"/> [影视TVAPP](https://github.com) | 📺 大屏端 | 大屏端影视点播聚合应用 | |
+| <img src="https://tts8.com" width="22" valign="middle"/> [AfuseKt](https://github.com) | 📺 大屏端 | 配合阿里云盘/网盘挂载的播放工具 | |
+| <img src="https://media-amazon.com" width="22" valign="middle"/> [柴柴EMBY](https://github.com) | 📺 大屏端 | 柴柴专属 EMBY 影音服务器资源 | |
+| <img src="https://youhun.wang" width="22" valign="middle"/> [全网 Android TV电视盒子应用](https://github.com) | 📺 大屏端 | 电视盒子常用优质 APP 集合包 | |
+| <img src="https://github.io" width="22" valign="middle"/> [虎牙聚合直播](https://github.com) | 📺 大屏端 | TV 端虎牙等平台聚合直播应用 | |
