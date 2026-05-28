@@ -8,8 +8,8 @@
 
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="https://postimg.cc" width="25" /> | [Clash Verge 的延续](https://github.com) | 💻 客户端 | Clash Verge 延续版代理客户端 | |
-| <img src="https://postimg.cc" width="25" /> | [Clash-for-Windows_汉化](https://github.com) | 💻 客户端 | CFW Windows 客户端汉化版 | |
+| <img src="https://avatars.githubusercontent.com/u/152534467?s=48&v=4" width="25" /> | [Clash Verge 的延续](https://github.com/clash-verge-rev/clash-verge-rev) | 💻 客户端 | Clash Verge 延续版代理客户端 | |
+| <img src="https://clashforwindows.org/wp-content/uploads/2022/09/1663501512-favicon.png" width="25" /> | [Clash-for-Windows_汉化](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 💻 客户端 | CFW Windows 客户端汉化版 | |
 | <img src="https://clashmetaforandroid.com" width="25" /> | [Clash Meta for Android](https://github.com) | 📱 客户端 | 适用于安卓的 Clash Meta 客户端 | |
 | <img src="https://postimg.cc" width="25" /> | [Surfboard 冲浪板](https://github.com) | 📱 客户端 | 安卓冲浪板代理软件 | |
 | <img src="https://postimg.cc" width="25" /> | [v2rayNG](https://github.com) | 📱 客户端 | 安卓 v2rayNG 代理客户端 | |
