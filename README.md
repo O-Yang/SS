@@ -46,16 +46,16 @@
 
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="https://github.com" width="25" /> | [Magisk 面具原版](https://github.com) | ⚡ Root | 安卓 Magisk 官方原版工具 | |
-| <img src="https://githubusercontent.com" width="25" /> | [Magisk 面具修改版](https://github.com) | ⚡ Root | 各种定制/面具修改版集合 | |
-| <img src="https://githubusercontent.com" width="25" /> | [KernelSU](https://github.com) | ⚡ Root | 基于内核的安卓 Root 方案 | |
-| <img src="https://githubusercontent.com" width="25" /> | [APatch](https://github.com) | ⚡ Root | 新型安卓内核与系统级挂载 Root | |
-| <img src="http://fakeloc.cc" width="25" /> | [FakeLocation定位修改](https://github.com) | 📍 定位 | 免 Root/带 Root 的虚拟定位软件 | |
-| <img src="https://utdstc.com" width="25" /> | [MockLocation 悟空虚拟定位](https://github.com) | 📍 定位 | 安卓高级虚拟定位工具 | |
-| <img src="https://github.com" width="25" /> | [Hide My Applist 隐藏应用列表](https://github.com) | 🛡️ 隐私 | 防止应用检测 Root 的隐藏黑名单 | |
-| <img src="https://appteka.store" width="25" /> | [Fuck for VIP软件vip解锁模块](https://github.com) | 🔓 Xposed | 针对部分应用 VIP 权益的解锁模块 | |
-| <img src="https://githubusercontent.com" width="25" /> | [gkd 搞快点](https://github.com) | 🚫 无障碍 | 自动跳过 APP 开屏广告工具 | |
-| <img src="https://githubusercontent.com" width="25" /> | [隐秘空间](https://github.com) | 🛡️ 隐私 | 应用双开与隐藏保护空间模块 | |
+| <img src="https://github.com" width="25" /> | [Magisk 面具原版](https://github.com/topjohnwu/Magisk) | ⚡ Root | 安卓 Magisk 官方原版工具 | |
+| <img src="https://githubusercontent.com" width="25" /> | [Magisk 面具修改版](https://github.com/HuskyDG/magisk-files) | ⚡ Root | 各种定制/面具修改版集合 | |
+| <img src="https://githubusercontent.com" width="25" /> | [KernelSU](https://github.com/tiann/KernelSU) | ⚡ Root | 基于内核的安卓 Root 方案 | |
+| <img src="https://githubusercontent.com" width="25" /> | [APatch](https://github.com/bmax121/APatch) | ⚡ Root | 新型安卓内核与系统级挂载 Root | |
+| <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="25" /> | [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) | 📍 定位 | 免 Root/带 Root 的虚拟定位软件 | |
+| <img src="https://utdstc.com" width="25" /> | [MockLocation 悟空虚拟定位](https://github.com/ChenGuoqing1001/MockLocation) | 📍 定位 | 安卓高级虚拟定位工具 | |
+| <img src="https://github.com/Dr-TSNG/Hide-My-Applist/raw/master/banner.png" width="25" /> | [Hide My Applist 隐藏应用列表](https://github.com/Dr-TSNG/Hide-My-Applist) | 🛡️ 隐私 | 防止应用检测 Root 的隐藏黑名单 | |
+| <img src="https://appteka.store" width="25" /> | [Fuck for VIP软件vip解锁模块](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) | 🔓 Xposed | 针对部分应用 VIP 权益的解锁模块 | |
+| <img src="https://avatars.githubusercontent.com/u/138121201?s=88&v=4" width="25" /> | [gkd 搞快点](https://github.com/gkd-kit/gkd) | 🚫 无障碍 | 自动跳过 APP 开屏广告工具 | |
+| <img src="https://raw.githubusercontent.com/O-Yang/SS/refs/heads/main/1S.png" width="25" /> | [隐秘空间](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace) | 🛡️ 隐私 | 应用双开与隐藏保护空间模块 | |
 
 ---
 
