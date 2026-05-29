@@ -25,9 +25,9 @@
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
 | <img src="https://theapplewiki.com" width="25" /> | [Dopamine RootHide原版](https://github.com/roothide/Dopamine-roothide) | 🔓 越狱 | 多巴胺 RootHide 越狱工具 | |
-| <img src="https://postimg.cc" width="25" /> | [M哥修改版](https://avatars.githubusercontent.com/u/3348485?s=48&v=4) | 🔓 越狱 | M哥定制修改版多巴胺环境 | |
-| <img src="https://githubusercontent.com" width="25" /> | [L哥修改版](https://avatars.githubusercontent.com/u/114452622?s=48&v=4) | 🔓 越狱 | L哥定制修改版多巴胺环境 | |
-| <img src="https://githubusercontent.com" width="25" /> | [真皮哥修改版](https://github.com/w2599/Dopamine) | 🔓 越狱 | 真皮哥定制修改版多巴胺环境 | |
+| <img src="https://postimg.cc" width="25" /> | [M哥修改版](https://github.com/wwg135/Dopamine) | 🔓 越狱 | M哥定制修改版多巴胺环境 | |
+| <img src="https://githubusercontent.com" width="25" /> | [L哥修改版](https://github.com/Liam0205/Dopamine) | 🔓 越狱 | L哥定制修改版多巴胺环境 | |
+| <img src="https://avatars.githubusercontent.com/u/114452622?s=48&v=4" width="25" /> | [真皮哥修改版](https://github.com/w2599/Dopamine) | 🔓 越狱 | 真皮哥定制修改版多巴胺环境 | |
 | <img src="https://github.com" width="25" /> | [TrollInstallerX 巨魔安装器](https://github.com/alfiecg24/TrollInstallerX) | 🐉 巨魔 | TrollStore 巨魔一键安装工具 | |
 | <img src="https://havoc.app" width="25" /> | [TrollRecorder 巨魔录音机](https://github.com/Lessica/TrollRecorder) | 🐉 巨魔 | 巨魔免越狱系统通话录音 | |
 | <img src="https://ipaomtk.com" width="25" /> | [TrollFools 巨魔插件注入](https://github.com/Lessica/TrollFools) | 🐉 巨魔 | 免越狱为 App 注入插件的工具 | |
