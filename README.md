@@ -53,7 +53,7 @@
 | <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="25" /> | [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) | 📍 定位 | 免 Root/带 Root 的虚拟定位软件 | |
 | <img src="https://img.utdstc.com/icon/589/62e/58962e1e5f108e659606838e0699fe61e5f5bd63053b3e85bdc369b7969a64d1:100" width="25" /> | [MockLocation 悟空虚拟定位](https://github.com/ChenGuoqing1001/MockLocation) | 📍 定位 | 安卓高级虚拟定位工具 | |
 | <img src="https://img.utdstc.com/icon/ece/960/ece960263be734078890f2bd1b74b86df5f80cee8f599c20ea40668cff989a62:100" width="25" /> | [Hide My Applist 隐藏应用列表](https://github.com/Dr-TSNG/Hide-My-Applist) | 🛡️ 隐私 | 防止应用检测 Root 的隐藏黑名单 | |
-| <img src="https://img.h6room.com/images202412021205429.jpg" width="25" /> | [Fuck for VIP软件vip解锁模块](https://github.com/bug-bit/fckvip) | 🔓 Xposed | 针对部分应用 VIP 权益的解锁模块 | |
+| <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2019/11/5de001a7025ce-384x384.png" width="25" /> | [Fuck for VIP软件vip解锁模块](https://github.com/bug-bit/fckvip) | 🔓 Xposed | 针对部分应用 VIP 权益的解锁模块 | |
 | <img src="https://avatars.githubusercontent.com/u/138121201?s=88&v=4" width="25" /> | [gkd 搞快点](https://github.com/gkd-kit/gkd) | 🚫 无障碍 | 自动跳过 APP 开屏广告工具 | |
 | <img src="https://raw.githubusercontent.com/O-Yang/SS/refs/heads/main/1S.png" width="25" /> | [隐秘空间](https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace) | 🛡️ 隐私 | 应用双开与隐藏保护空间模块 | |
 
