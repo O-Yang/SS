@@ -65,15 +65,15 @@
 
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="https://mobatek.net" width="25" /> | [MobaXterm 远程工具汉化](https://github.com) | 🛠️ PC 软件 | 全能型终端/SSH/X服务器汉化版 | |
-| <img src="https://alternativeto.net" width="25" /> | [Notepad4 轻量级文本编辑器](https://github.com) | 🛠️ PC 软件 | 轻量高效的文本与代码编辑器 | |
-| <img src="https://github.com" width="25" /> | [LenovoLegionToolkit 拯救者工具箱](https://github.com) | 🛠️ PC 软件 | 联想拯救者开源替代版控制工具箱 | |
-| <img src="https://githubusercontent.com" width="25" /> | [Traffic Monitor 网速监控悬浮窗软件](https://github.com) | 🛠️ PC 软件 | Windows 状态栏/悬浮窗网速监控 | |
-| <img src="https://githubusercontent.com" width="25" /> | [IPTV（TVBOX）](https://github.com) | 📺 大屏端 | 电视直播 IPTV 订阅与播放器 | |
-| <img src="https://githubusercontent.com" width="25" /> | [TvBox（TVBOX）](https://github.com) | 📺 大屏端 | 开源多功能电视盒子播放器壳子 | |
-| <img src="https://github.com" width="25" /> | [我的电视](https://github.com) | 📺 大屏端 | 经典易用的电视直播软件 | |
+| <img src="https://mobatek.net" width="25" /> | [MobaXterm 远程工具汉化](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | 🛠️ PC 软件 | 全能型终端/SSH/X服务器汉化版 | |
+| <img src="https://alternativeto.net" width="25" /> | [Notepad4 轻量级文本编辑器](https://github.com/zufuliu/notepad4) | 🛠️ PC 软件 | 轻量高效的文本与代码编辑器 | |
+| <img src="https://github.com" width="25" /> | [LenovoLegionToolkit 拯救者工具箱](https://github.com/BartoszCichecki/LenovoLegionToolkit) | 🛠️ PC 软件 | 联想拯救者开源替代版控制工具箱 | |
+| <img src="https://githubusercontent.com" width="25" /> | [Traffic Monitor 网速监控悬浮窗软件](https://github.com/zhongyang219/TrafficMonitor) | 🛠️ PC 软件 | Windows 状态栏/悬浮窗网速监控 | |
+| <img src="https://githubusercontent.com" width="25" /> | [IPTV（TVBOX）](https://github.com/ngo5/IPTV) | 📺 大屏端 | 电视直播 IPTV 订阅与播放器 | |
+| <img src="https://githubusercontent.com" width="25" /> | [TvBox（TVBOX）](https://github.com/1771245847/TvBox) | 📺 大屏端 | 开源多功能电视盒子播放器壳子 | |
+| <img src="https://github.com" width="25" /> | [我的电视](https://github.com/yaoxieyoulei/mytv-android) | 📺 大屏端 | 经典易用的电视直播软件 | |
 | <img src="https://7po.com" width="25" /> | [影视TVAPP](https://github.com/youhunwl/TVAPP) | 📺 大屏端 | 大屏端影视点播聚合应用 | |
-| <img src="https://tts8.com" width="25" /> | [AfuseKt](https://github.com) | 📺 大屏端 | 配合阿里云盘/网盘挂载的播放工具 | |
-| <img src="https://media-amazon.com" width="25" /> | [柴柴EMBY](https://github.com) | 📺 大屏端 | 柴柴专属 EMBY 影音服务器资源 | |
+| <img src="https://i-2.tts8.com/2026/0305/5cd2c04d7551ce14dd4b9eb099e1f266.webp" width="25" /> | [AfuseKt](https://github.com/AttemptD/AfuseKt-release) | 📺 大屏端 | 配合阿里云盘/网盘挂载的播放工具 | |
+| <img src="https://m.media-amazon.com/images/I/41VudWRykvL.png" width="25" /> | [柴柴EMBY](https://github.com/dh374374/ChaiChaiEmbyTV) | 📺 大屏端 | 柴柴专属 EMBY 影音服务器资源 | |
 | <img src="https://youhun.wang" width="25" /> | [全网 Android TV电视盒子应用](https://github.com/youhunwl/TVAPP) | 📺 大屏端 | 电视盒子常用优质 APP 集合包 | |
-| <img src="https://github.io" width="25" /> | [虎牙聚合直播](https://github.com) | 📺 大屏端 | TV 端虎牙等平台聚合直播应用 | |
+| <img src="https://jayjd.github.io/assets/img/ic_channel.png" width="25" /> | [虎牙聚合直播](https://github.com/jayjd/HuYaTv) | 📺 大屏端 | TV 端虎牙等平台聚合直播应用 | |
