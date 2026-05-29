@@ -46,12 +46,12 @@
 
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="https://github.com" width="25" /> | [Magisk 面具原版](https://github.com/topjohnwu/Magisk) | ⚡ Root | 安卓 Magisk 官方原版工具 | |
+| <img src="https://cdn.magiskcn.com/wp-content/uploads/2021/05/favicon.ico" width="25" /> | [Magisk 面具原版](https://github.com/topjohnwu/Magisk) | ⚡ Root | 安卓 Magisk 官方原版工具 | |
 | <img src="https://githubusercontent.com" width="25" /> | [Magisk 面具修改版](https://github.com/HuskyDG/magisk-files) | ⚡ Root | 各种定制/面具修改版集合 | |
-| <img src="https://githubusercontent.com" width="25" /> | [KernelSU](https://github.com/tiann/KernelSU) | ⚡ Root | 基于内核的安卓 Root 方案 | |
-| <img src="https://githubusercontent.com" width="25" /> | [APatch](https://github.com/bmax121/APatch) | ⚡ Root | 新型安卓内核与系统级挂载 Root | |
+| <img src="https://camo.githubusercontent.com/21e900d80bd809f5a57d9084b3630b5f9ecc68c9129c0711ed6a0733ac23c09d/68747470733a2f2f6b65726e656c73752e6f72672f6c6f676f2e706e67" width="25" /> | [KernelSU](https://github.com/tiann/KernelSU) | ⚡ Root | 基于内核的安卓 Root 方案 | |
+| <img src="https://camo.githubusercontent.com/8c256e92bb43f15ce0e49641ae96d5546ea892dbccdcf4ce9bdc29cca242ce8a/68747470733a2f2f696d616765732e7765736572762e6e6c2f3f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f626d61783132312f4150617463682f6d61696e2f6170702f7372632f6d61696e2f69635f6c61756e636865722d706c617973746f72652e706e67266d61736b3d636972636c65" width="25" /> | [APatch](https://github.com/bmax121/APatch) | ⚡ Root | 新型安卓内核与系统级挂载 Root | |
 | <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="25" /> | [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) | 📍 定位 | 免 Root/带 Root 的虚拟定位软件 | |
-| <img src="https://utdstc.com" width="25" /> | [MockLocation 悟空虚拟定位](https://github.com/ChenGuoqing1001/MockLocation) | 📍 定位 | 安卓高级虚拟定位工具 | |
+| <img src="https://img.utdstc.com/icon/589/62e/58962e1e5f108e659606838e0699fe61e5f5bd63053b3e85bdc369b7969a64d1:100" width="25" /> | [MockLocation 悟空虚拟定位](https://github.com/ChenGuoqing1001/MockLocation) | 📍 定位 | 安卓高级虚拟定位工具 | |
 | <img src="https://github.com/Dr-TSNG/Hide-My-Applist/raw/master/banner.png" width="25" /> | [Hide My Applist 隐藏应用列表](https://github.com/Dr-TSNG/Hide-My-Applist) | 🛡️ 隐私 | 防止应用检测 Root 的隐藏黑名单 | |
 | <img src="https://appteka.store" width="25" /> | [Fuck for VIP软件vip解锁模块](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) | 🔓 Xposed | 针对部分应用 VIP 权益的解锁模块 | |
 | <img src="https://avatars.githubusercontent.com/u/138121201?s=88&v=4" width="25" /> | [gkd 搞快点](https://github.com/gkd-kit/gkd) | 🚫 无障碍 | 自动跳过 APP 开屏广告工具 | |
