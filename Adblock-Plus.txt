@@ -55,6 +55,37 @@ cn.pornhub.com##.backgroundImg
 v.anxia.com###js_common_mini-dialog
 v.anxia.com##.feature-float
 ||act.115.com/assets/2022/1111/portal/jxs_web_home_banner.png
+!====================================================================115自定义过滤==================================================================================
+
+
+115.com###js_common_act-enter > a.btn-feature > img:first-child
+115.com###js_left_notice
+115.com###js_feedback_main
+115.com###js-main_leftUI > div.bottom-side:nth-child(3) > div.navigation-ceiling:first-child > ul > li:last-child > a.btn-ceiling
+115.com###js-main_leftUI > div.bottom-side:nth-child(3) > div.navigation-ceiling:first-child > ul > li:last-child > a.btn-ceiling
+115.com###js_left_notice
+115.com###open_vip_page
+115.com###js-main_leftUI > div.top-side:nth-child(2) > div.navigation-ceiling:first-child > ul > li:last-child > a
+115.com###js-main_leftUI > div.top-side:nth-child(2) > div.navigation-ceiling.nc-add:last-child > ul:first-child > li > a
+115.com###js-main_leftUI > div.top-side:nth-child(2) > div.navigation-ceiling:first-child > ul > li:nth-child(2) > a
+115.com###js-main > div.top-panel:nth-child(2) > div.inner
+115.com###js-main > div.vip-view-handle:last-child
+115.com###js-main > div:nth-child(3) > div.product-feather-wrap:nth-child(3) > div.pfw-cell:first-child
+115.com###js-main > div:nth-child(3) > div.product-feather-wrap:nth-child(3) > div.pfw-cell:nth-child(2)
+115.com###js-main > div:nth-child(3) > div.product-feather-wrap:nth-child(3) > div.pfw-cell:nth-child(2)
+115.com###js-main > div:nth-child(3) > div.product-feather-wrap:nth-child(3) > div.pfw-cell:last-child
+115.com###js-main > div.footer:nth-child(4)
+115.com###js_app_version_container
+115.com###js-main > div.vip-view-handle:last-child > ul > li:first-child > a:first-child
+115.com###js-main > div.vip-view-handle:last-child
+115.com###js_bottom_notification > div.notification-content
+115.com###js_common_mini-dialog > a.close:last-child
+115.com###js_bottom_notification > div.notification-content
+115.com###js_common_mini-dialog > a:nth-child(2)
+115.com###js_common_mini-dialog > img:first-child
+115.com###js_common_mini-dialog > img:first-child
+
+
 
 !====================================================================谷歌自定义过滤==================================================================================
 
