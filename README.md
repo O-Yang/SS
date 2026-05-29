@@ -31,7 +31,7 @@
 | <img src="https://raw.githubusercontent.com/alfiecg24/TrollInstallerX/main/Resources/Icon.png" width="25" /> | [TrollInstallerX 巨魔安装器](https://github.com/alfiecg24/TrollInstallerX) | 🐉 巨魔 | TrollStore 巨魔一键安装工具 | |
 | <img src="https://media.havoc.app/6669b3b45e7d7e36f189dc6d?w=3840&q=75" width="25" /> | [TrollRecorder 巨魔录音机](https://github.com/Lessica/TrollRecorder) | 🐉 巨魔 | 巨魔免越狱系统通话录音 | |
 | <img src="https://media.havoc.app/68c58003a25de63e9b02f445?w=3840&q=75" width="25" /> | [TrollFools 巨魔插件注入](https://github.com/Lessica/TrollFools) | 🐉 巨魔 | 免越狱为 App 注入插件的工具 | |
-| <img src="https://ipa.store/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/01/20250112191207.jpg" width="25" /> | [TrollFools huami修改版](https://github.com/huami1314/TrollFools) | 🐉 巨魔 | 华米定制修改版 TrollFools | |
+| <img src="https://iosdk.oss-cn-beijing.aliyuncs.com/20241004224115396.png" width="25" /> | [TrollFools huami修改版](https://github.com/huami1314/TrollFools) | 🐉 巨魔 | 华米定制修改版 TrollFools | |
 | <img src="https://githubusercontent.com" width="25" /> | [vCards ios通讯录中国黄页](https://github.com) | ℹ️ 配置 | iOS 增强版系统通讯录黄页说明 | |
 | <img src="https://github.com" width="25" /> | [LEGION_Y7000Series_Hackintosh](https://github.com) | 🍏 黑苹果 | 拯救者 Y7000 系列黑苹果 EFI 配置 | |
 | <img src="https://githubusercontent.com" width="25" /> | [Hackintosh-LEGION-Y7000P-I7-9750H](https://github.com) | 🍏 黑苹果 | 拯救者 Y7000P i7-9750H 专用 EFI | |
