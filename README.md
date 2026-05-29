@@ -47,7 +47,7 @@
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
 | <img src="https://cdn.magiskcn.com/wp-content/uploads/2021/05/favicon.ico" width="25" /> | [Magisk 面具原版](https://github.com/topjohnwu/Magisk) | ⚡ Root | 安卓 Magisk 官方原版工具 | |
-| <img src="https://githubusercontent.com" width="25" /> | [Magisk 面具修改版](https://github.com/HuskyDG/magisk-files) | ⚡ Root | 各种定制/面具修改版集合 | |
+| <img src="https://img.utdstc.com/icon/ab9/c35/ab9c35e531a3bb1c41e30829d07b4efb2d93268f2201fa34b4f5495991459207" width="25" /> | [Magisk 面具修改版（狐妖）](https://github.com/HuskyDG/magisk-files) | ⚡ Root | 各种定制/面具修改版集合 | [作者账号被盗删库](https://magisk-delta.cn.uptodown.com/android)|
 | <img src="https://camo.githubusercontent.com/21e900d80bd809f5a57d9084b3630b5f9ecc68c9129c0711ed6a0733ac23c09d/68747470733a2f2f6b65726e656c73752e6f72672f6c6f676f2e706e67" width="25" /> | [KernelSU](https://github.com/tiann/KernelSU) | ⚡ Root | 基于内核的安卓 Root 方案 | |
 | <img src="https://camo.githubusercontent.com/8c256e92bb43f15ce0e49641ae96d5546ea892dbccdcf4ce9bdc29cca242ce8a/68747470733a2f2f696d616765732e7765736572762e6e6c2f3f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f626d61783132312f4150617463682f6d61696e2f6170702f7372632f6d61696e2f69635f6c61756e636865722d706c617973746f72652e706e67266d61736b3d636972636c65" width="25" /> | [APatch](https://github.com/bmax121/APatch) | ⚡ Root | 新型安卓内核与系统级挂载 Root | |
 | <img src="http://fakeloc.cc/upload/5e9d4bf314134800299a7de9/icon/com.lerist.fakelocation_1.2.0.6_561_a.png" width="25" /> | [FakeLocation定位修改](https://github.com/Lerist/FakeLocation) | 📍 定位 | 免 Root/带 Root 的虚拟定位软件 | |
