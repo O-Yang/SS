@@ -33,10 +33,10 @@
 | <img src="https://media.havoc.app/68c58003a25de63e9b02f445?w=3840&q=75" width="25" /> | [TrollFools 巨魔插件注入](https://github.com/Lessica/TrollFools) | 🐉 巨魔 | 免越狱为 App 注入插件的工具 | |
 | <img src="https://iosdk.oss-cn-beijing.aliyuncs.com/20241004224115396.png" width="25" /> | [TrollFools huami修改版](https://github.com/huami1314/TrollFools) | 🐉 巨魔 | 华米定制修改版 TrollFools | |
 | <img src="https://user-images.githubusercontent.com/2666735/60966995-224fae00-a34c-11e9-970c-ea5fa15186c6.png" width="25" /> | [vCards ios通讯录中国黄页](https://github.com/metowolf/vCards) | ℹ️ 配置 | iOS 增强版系统通讯录黄页说明 | |
-| <img src="https://github.com" width="25" /> | [LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh) | 🍏 黑苹果 | 拯救者 Y7000 系列黑苹果 EFI 配置 | |
-| <img src="https://githubusercontent.com" width="25" /> | [Hackintosh-LEGION-Y7000P-I7-9750H](https://github.com/gclm/Hackintosh-LEGION-Y7000P-I7-9750H) | 🍏 黑苹果 | 拯救者 Y7000P i7-9750H 专用 EFI | |
+| <img src="https://mms0.baidu.com/it/u=970874001,3980063182&fm=253&app=138&f=JPEG?w=500&h=500" width="25" /> | [LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh) | 🍏 黑苹果 | 拯救者 Y7000 系列黑苹果 EFI 配置 | |
+| <img src="https://mms0.baidu.com/it/u=970874001,3980063182&fm=253&app=138&f=JPEG?w=500&h=500" width="25" /> | [Hackintosh-LEGION-Y7000P-I7-9750H](https://github.com/gclm/Hackintosh-LEGION-Y7000P-I7-9750H) | 🍏 黑苹果 | 拯救者 Y7000P i7-9750H 专用 EFI | |
 | <img src="https://opencorelegacypatcher.net/wp-content/uploads/2023/12/opencore-legacy-patcher-logo.png" width="25" /> | [OpenCorePkg（黑苹果引导）](https://github.com/acidanthera/OpenCorePkg) | 🍏 黑苹果 | OpenCore 官方黑苹果引导包 | |
-| <img src="https://github.com" width="25" /> | [one-key-hidpi 一键开启 macOS HiDPI](https://github.com/xzhih/one-key-hidpi) | 🍏 黑苹果 | 解决黑苹果显示模糊的一键脚本 | |
+| <img src="https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/img/preferences.jpg" width="25" /> | [one-key-hidpi 一键开启 macOS HiDPI](https://github.com/xzhih/one-key-hidpi) | 🍏 黑苹果 | 解决黑苹果显示模糊的一键脚本 | |
 
 ---
 
