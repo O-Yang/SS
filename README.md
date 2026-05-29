@@ -65,9 +65,9 @@
 
 | 图标 | 软件 / 项目 | 类型 | 说明 | 备注 |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="https://mobatek.net" width="25" /> | [MobaXterm 远程工具汉化](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | 🛠️ PC 软件 | 全能型终端/SSH/X服务器汉化版 | |
-| <img src="https://alternativeto.net" width="25" /> | [Notepad4 轻量级文本编辑器](https://github.com/zufuliu/notepad4) | 🛠️ PC 软件 | 轻量高效的文本与代码编辑器 | |
-| <img src="https://github.com" width="25" /> | [LenovoLegionToolkit 拯救者工具箱](https://github.com/BartoszCichecki/LenovoLegionToolkit) | 🛠️ PC 软件 | 联想拯救者开源替代版控制工具箱 | |
+| <img src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" width="25" /> | [MobaXterm 远程工具汉化](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) | 🛠️ PC 软件 | 全能型终端/SSH/X服务器汉化版 | |
+| <img src="https://www.mefcl.com/wp-content/uploads/2025/01/Notepad4.png" width="25" /> | [Notepad4 轻量级文本编辑器](https://github.com/zufuliu/notepad4) | 🛠️ PC 软件 | 轻量高效的文本与代码编辑器 | |
+| <img src="https://raw.githubusercontent.com/BartoszCichecki/LenovoLegionToolkit/refs/heads/master/assets/logo.png" width="25" /> | [LenovoLegionToolkit 拯救者工具箱](https://github.com/BartoszCichecki/LenovoLegionToolkit) | 🛠️ PC 软件 | 联想拯救者开源替代版控制工具箱 | |
 | <img src="https://githubusercontent.com" width="25" /> | [Traffic Monitor 网速监控悬浮窗软件](https://github.com/zhongyang219/TrafficMonitor) | 🛠️ PC 软件 | Windows 状态栏/悬浮窗网速监控 | |
 | <img src="https://githubusercontent.com" width="25" /> | [IPTV（TVBOX）](https://github.com/ngo5/IPTV) | 📺 大屏端 | 电视直播 IPTV 订阅与播放器 | |
 | <img src="https://githubusercontent.com" width="25" /> | [TvBox（TVBOX）](https://github.com/1771245847/TvBox) | 📺 大屏端 | 开源多功能电视盒子播放器壳子 | |
