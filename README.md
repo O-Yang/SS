@@ -77,3 +77,5 @@
 | <img src="https://m.media-amazon.com/images/I/41VudWRykvL.png" width="25" /> | [柴柴EMBY](https://github.com/dh374374/ChaiChaiEmbyTV) | 📺 大屏端 | 柴柴专属 EMBY 影音服务器资源 | |
 | <img src="https://play-lh.googleusercontent.com/wxOCkkphQ0tVRZQdnZ8VxtTzmPXTc6kVB7CIL3pgFchs0X7d2R0u2MOv1xHVprYIGFve=w240-h480-rw" width="25" /> | [全网 Android TV电视盒子应用](https://github.com/youhunwl/TVAPP) | 📺 大屏端 | 电视盒子常用优质 APP 集合包 | |
 | <img src="https://jayjd.github.io/assets/img/ic_channel.png" width="25" /> | [虎牙聚合直播](https://github.com/jayjd/HuYaTv) | 📺 大屏端 | TV 端虎牙等平台聚合直播应用 | |
+| <img src="https://gitee.com/static/images/logo-en.svg" width="25" /> | [Gitte](https://gitee.com/to-yang/tvbox) |  双端| TVbox源 |
+
