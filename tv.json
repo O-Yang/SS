@@ -1,7 +1,11 @@
 {
-  "提示": "自建 TVBox 个人专属配置",
-  "spider": "https://gitee.com/to-yang/tvbox/raw/master/tvbox.jar",
+  "提示": "自建 TVBox 个人专属配置"，
+// "spider": "https://gitee.com/to-yang/tvbox/raw/master/tvbox.jar",
+  "spider": "https://raw.githubusercontent.com/O-Yang/SS/refs/heads/main/tvbox.jar",
 
+
+
+  
   "sites": [
     {
       "key": "豆瓣",
