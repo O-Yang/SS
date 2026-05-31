@@ -105,7 +105,9 @@ v.anxia.com##.feature-float
 115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.p-2.flex.flex-col.gap-1.min-\[3008px\]\:gap-\[15px\].flex-shrink-0:last-child > div.flex.flex-col.gap-2.min-\[3008px\]\:gap-\[40px\].mb-\[10px\]:first-child > button.w-full.h-14.flex.flex-col.items-center.justify-center.rounded-lg.text-\[\#6F8396\].hover\:bg-white.hover\:text-blue-600.group.cursor-pointer:last-child
 115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.p-2.flex.flex-col.gap-1.min-\[3008px\]\:gap-\[15px\].flex-shrink-0:last-child > div.relative:last-child > div:first-child > div.flex.w-full.cursor-pointer.flex-col.items-center.overflow-visible.py-1.text-center > div.mt-\[18px\].-mx-1.p-0\.5.min-h-\[26px\].inline-flex.items-center.btn-golden:last-child
 
-
+||act.115.com/api/1.0/web/1.0/spotlight/imgload?id=303
+115.com##.relative.w-full.h-full.rounded-lg.overflow-hidden
+115.com##.text-red-600.hover\:text-red-700.text-sm.cursor-pointer.transition-colors
 !====================================================================自定义过滤==================================================================================
 
 !====================================================================自定义过滤==================================================================================
