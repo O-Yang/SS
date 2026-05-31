@@ -1,5 +1,5 @@
 ### 📁 星标仓库目录与功能说明----- [<img src="https://gitee.com/static/images/logo-en.svg" width="25" /> Gitte](https://gitee.com/to-yang/tvbox) 
-
+添加https://ghproxy.net/
 ---
 
 ### 🌐 1. 网络代理与多平台客户端
