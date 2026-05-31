@@ -84,7 +84,27 @@ v.anxia.com##.feature-float
 115.com###js_common_mini-dialog > a:nth-child(2)
 115.com###js_common_mini-dialog > img:first-child
 115.com###js_common_mini-dialog > img:first-child
+!==============115新版
 
+115.com###js_common_act-enter > a.btn-feature > img:first-child
+115.com###js_left_notice
+115.com###js_feedback_main
+115.com###js-main_leftUI > div.bottom-side:nth-child(3) > div.navigation-ceiling:first-child > ul > li:last-child > a.btn-ceiling
+115.com###js-main_leftUI > div.bottom-side:nth-child(3) > div.navigation-ceiling:first-child > ul > li:last-child > a.btn-ceiling
+115.com###js_left_notice
+115.com###open_vip_page
+115.com###js-main_leftUI > div.top-side:nth-child(2) > div.navigation-ceiling:first-child > ul > li:last-child > a
+115.com###js-main_leftUI > div.top-side:nth-child(2) > div.navigation-ceiling.nc-add:last-child > ul:first-child > li > a
+115.com###js-main_leftUI > div.top-side:nth-child(2) > div.navigation-ceiling:first-child > ul > li:nth-child(2) > a
+115.com###ad_popup_tbtwxrlgy > div.sp-box > a.sp-link > img.sp-img
+
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > div.flex-1.min-w-0.max-w-full.overflow-hidden:last-child > div.flex.flex-1.h-full.bg-white.relative.w-full > main.flex-1.bg-white.h-full.overflow-x-hidden.overflow-y-auto.min-w-\[250px\]:last-child > div.h-full.flex.flex-col > div.flex-shrink-0.bg-white.px-6.py-\[15px\].min-\[3000px\]\:py-\[9px\]:first-child > div.flex.items-center > div.ml-4.flex.items-center:nth-child(2) > div.relative > div.rounded-lg.cursor-pointer > img.h-\[30px\].object-contain.rounded.flex-shrink-0:first-child
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > div.flex-1.min-w-0.max-w-full.overflow-hidden:last-child > div.flex.flex-1.h-full.bg-white.relative.w-full > main.flex-1.bg-white.h-full.overflow-x-hidden.overflow-y-auto.min-w-\[250px\]:last-child > div.h-full.flex.flex-col > div.flex-shrink-0.bg-white.px-6.py-\[15px\].min-\[3000px\]\:py-\[9px\]:first-child > div.flex.items-center > div.ml-4.flex.items-center:nth-child(2) > div.relative > div.rounded-lg.cursor-pointer > img.h-\[30px\].object-contain.rounded.flex-shrink-0:first-child
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.relative.flex-1:nth-child(2) > nav.h-full.p-2.flex.flex-col.justify-start.gap-4.min-\[3008px\]\:gap-\[60px\].min-\[3008px\]\:mt-\[38px\]:first-child > a.w-full.h-16.flex.flex-col.items-center.justify-center.rounded-lg.group.flex-shrink-0.cursor-pointer.relative.text-\[\#6F8396\].hover\:bg-white.hover\:text-blue-600:nth-child(2)
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.relative.flex-1:nth-child(2) > nav.h-full.p-2.flex.flex-col.justify-start.gap-4.min-\[3008px\]\:gap-\[60px\].min-\[3008px\]\:mt-\[38px\]:first-child > a.w-full.h-16.flex.flex-col.items-center.justify-center.rounded-lg.group.flex-shrink-0.cursor-pointer.relative.text-\[\#6F8396\].hover\:bg-white.hover\:text-blue-600:nth-child(3)
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.p-2.flex.flex-col.gap-1.min-\[3008px\]\:gap-\[15px\].flex-shrink-0:last-child > div.flex.flex-col.gap-2.min-\[3008px\]\:gap-\[40px\].mb-\[10px\]:first-child > button.w-full.h-14.flex.flex-col.items-center.justify-center.rounded-lg.text-\[\#6F8396\].hover\:bg-white.hover\:text-blue-600.group.cursor-pointer:first-child
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.p-2.flex.flex-col.gap-1.min-\[3008px\]\:gap-\[15px\].flex-shrink-0:last-child > div.flex.flex-col.gap-2.min-\[3008px\]\:gap-\[40px\].mb-\[10px\]:first-child > button.w-full.h-14.flex.flex-col.items-center.justify-center.rounded-lg.text-\[\#6F8396\].hover\:bg-white.hover\:text-blue-600.group.cursor-pointer:last-child
+115.com##div.h-screen.flex.relative.min-w-\[800px\].max-w-full.overflow-hidden:nth-child(2) > aside.w-\[72px\].bg-gray-50.shadow-sm.h-full.flex-shrink-0.container-leftside:nth-child(2) > div.flex.flex-col.h-full > div.p-2.flex.flex-col.gap-1.min-\[3008px\]\:gap-\[15px\].flex-shrink-0:last-child > div.relative:last-child > div:first-child > div.flex.w-full.cursor-pointer.flex-col.items-center.overflow-visible.py-1.text-center > div.mt-\[18px\].-mx-1.p-0\.5.min-h-\[26px\].inline-flex.items-center.btn-golden:last-child
 
 
 !====================================================================谷歌自定义过滤==================================================================================
