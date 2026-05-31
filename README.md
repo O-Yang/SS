@@ -78,4 +78,5 @@
 | <img src="https://play-lh.googleusercontent.com/wxOCkkphQ0tVRZQdnZ8VxtTzmPXTc6kVB7CIL3pgFchs0X7d2R0u2MOv1xHVprYIGFve=w240-h480-rw" width="25" /> | [全网 Android TV电视盒子应用](https://github.com/youhunwl/TVAPP) | 📺 大屏端 | 电视盒子常用优质 APP 集合包 | |
 | <img src="https://jayjd.github.io/assets/img/ic_channel.png" width="25" /> | [虎牙聚合直播](https://github.com/jayjd/HuYaTv) | 📺 大屏端 | TV 端虎牙等平台聚合直播应用 | |
 | <img src="https://gitee.com/static/images/logo-en.svg" width="25" /> | [Gitte](https://gitee.com/to-yang/tvbox) |  双端| TVbox源 |
+| <img src="https://static.gl-inet.cn/www/images/products/gl-mt3600be/mt3600be_1.webp" width="25" /> | [GL-iNet 系列路由器 一键iStoreOS风格化脚本](https://github.com/wukongdaily/gl-inet-onescript) | |
 
